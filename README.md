@@ -12,4 +12,5 @@
   혹시 배포나 사용을 하시려면 kgo0748@gmail.com으로 메일 부탁드립니다.
 
 ---------------------------------------------------------------------------------------------
-  Copyrights by Cloud_kim. Please Contact me. If you want to use my code at kgo0748@mgail.com
+  Copyrights by Cloud_kim. Please Contact me.
+  If you want to use my code contact me at kgo0748@mgail.com
