@@ -13,4 +13,4 @@
 
 ---------------------------------------------------------------------------------------------
   Copyrights by Cloud_kim. Please Contact me.
-  If you want to use my code contact me at kgo0748@mgail.com
+  If you want to use my code contact me at kgo0748@gmail.com
